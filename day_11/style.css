@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+#add-contact-form {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #031a07;
+}
+
+#contact-list {
+    border: 1px solid #051307;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #130a0a;
+}
+#add-button{
+    background: rgb(60, 162, 60);
+    border-radius: 10px;
+}
+.AD{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
